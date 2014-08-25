@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="Interactive data visualization to explore how the Official Development Assistance (ODA) have changed in Spain since 2008">
+	<meta name="keywords" content="dataviz, data visualization, d3js, data journalism, ddj, interactive visualization, aod evolution, ayuda oficial al desarrollo">
+	<meta name="author" content="Beatriz Martínez">
+
+	<link href='http://fonts.googleapis.com/css?family=Dosis:200|Source+Sans+Pro:200,400|Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+
+	<title>Ayuda Oficial al Desarrollo</title>
+
+	<script type = "text/javascript" src = "d3.v3.min.js"></script>
+	
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
+
+	<link rel="icon" 
+      type="image/png" 
+      href="http://ayuda-oficial-desarrollo-espana.visualizados.com/images/favicon.png"/>
+	
+</head>
+
+
+<body>
+	<div id = "header">
+		<a href="http://visualizados.com"><span>&#8592;</span> visualizados.com</a>
+	</div>
+
+	<div id="wrapper">
+		<div id = "left">
+			<h1>Evolución de la Ayuda Oficial al Desarrollo.</h1><h2> España 2008 - 2012</h2>
+			<h3>Fuente <a href="http://goo.gl/Z4v518" target=\"_blank\">PACI</a>. Cifras expresadas en millones de Euros. <span STYLE="font-weight: 400;">*Diferencias porcentuales respecto al año 2008.*</span></h3>
+
+
+			<ul  class="button-group">
+				<li>
+					<a href="#" id="x2008" class ="button buttonSelected">2008</a>
+			    </li>
+			    	<li>
+					<a href="#" id="x2009" class ="button">2009</a>
+			    </li>
+			    	<li>
+					<a href="#" id="x2010" class ="button">2010</a>
+			    </li>
+			    	<li>
+					<a href="#" id="x2011" class ="button">2011</a>
+			    </li>
+			    	<li>
+					<a href="#" id="x2012" class ="button">2012</a>
+			    </li>
+			</ul> 	
+	    
+	    
+			<div id = "graphTotal"></div>
+
+			<div id = "graphSectors">
+				<div id = "tooltip" class = "hidden">
+					<p><span id = "value">Descripción</span></p>
+				</div>
+			</div>
+		</div>
+
+		<div id = "right">
+
+			<ul class="link-list">
+				<li>
+					<a href="http://goo.gl/vWSJpA" target="_blank">Descarga los datos</a>
+				<li>
+				</li>
+					<a href="www.google.es" target="_blank">Accede al código en Github</a>
+				</li>
+			</ul> 
+		
+
+			<div id = "insight">
+				<p><span id = "value">Des</span></p>
+			</div>
+		</div>
+	    
+		<script src="the_graphs.js"></script>
+	</div>
+
+</body>

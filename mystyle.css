@@ -1,0 +1,241 @@
+body {
+	background-color: #403d3e;
+	margin: auto; 
+}
+
+h1 {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 200;
+	color: white;
+	text-align: left;
+	-webkit-margin-before: 0.6rem;
+	-webkit-margin-after: 0.1rem;
+	display:inline;
+}
+
+h2 {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 200;
+	color: white;
+	text-align: left;
+	-webkit-margin-before: 0.1rem;
+	-webkit-margin-after: 0.1rem;
+	display:inline;
+}
+
+h3 {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 200;
+	font-size: 80%;
+	color: white;
+	text-align: left;
+	-webkit-margin-before: 0.1rem;
+	-webkit-margin-after: 1rem;
+}
+
+h3 a, h3 a:visited {
+	color: #fff;
+	opacity: 1;
+}
+
+h4 {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 400;
+	font-size: 80%;
+	color: white;
+	text-align: left;
+	-webkit-margin-before: 0.1rem;
+	-webkit-margin-after: 1rem;
+}
+
+p {
+	color: #fff;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 200;
+	font-size: 100%;
+}
+
+br {
+	line-height: 200%;
+}
+
+ul {
+	padding: 0;
+}
+
+#header {
+	background-image: url("/images/subtle_dots.png");
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	height: 35px;
+	padding: 0px 4rem;
+	line-height: 200%;
+}
+
+#header a {
+	text-decoration: none;
+	color: #FF6B6B;
+	font-family: "Dosis";
+	font-size: 150%
+}
+
+#header a:hover{
+	color: #4ECDC4;
+}
+
+
+#header span {
+	vertical-align: middle;
+	color:#4ECDC4; 
+	opacity: 0.8;
+}
+
+#header a:hover span{
+	color: #FF6B6B;
+}
+
+#wrapper {
+	margin: 60px auto 0;
+	padding: 0px 2rem;
+	width: 90%;
+	display: block;
+	max-width: 1280px;
+}
+
+#left {
+	width: 70%;
+	display: table-cell;
+}
+
+#right {
+	width: 40%;
+	min-width: 250px;
+	display: table-cell;
+}
+
+.button-group li{
+	display: inline;
+}
+
+.button {
+	background-color:#b3afb1;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border:1px solid #545454;
+	padding:0.3rem 2rem;
+	-webkit-transition: all 0.5s ease-out;
+	transition: all 0.5s ease-out;
+	color:#ffffff;
+	font-family: "Open Sans Condensed";
+	font-size:100%;
+	text-decoration:none;
+}
+
+.button:hover {
+	background-color:#fff;
+	color: #403d3e;
+}
+
+
+.button:active {
+	position:relative;
+	top:1px;
+}
+
+.buttonSelected {
+	border: 1px solid #545454;
+	background-color: #fff;
+	color: #403d3e;
+}
+
+#graphTotal {
+	padding: 40px 0px;
+}
+
+#graphSectors {
+	margin-top: -50px;
+}
+
+.link-list a, .link-list a:visited {
+	color: #fff;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 200;
+	font-size: 80%;
+	text-align: right;		
+}
+
+.link-list {
+	list-style-type: none;	
+	text-align: right;
+}
+
+#insight {
+	visibility: hidden;
+	text-align: left;	
+	line-height: 120%;		
+}
+
+#insight span {
+	height: 550px;
+	vertical-align: middle;
+	display: table-cell;
+	font-size: 90%;
+    color: #F2F2F2;
+}
+
+#insight a, #insight a:visited {
+	color: #fff;
+}
+
+.hidden {
+	display: none;
+}
+
+svg {
+	font-family: "Open Sans Condensed";
+	font-size: 75%;
+}
+
+#tooltip {
+	position: absolute;
+	padding: 0px 10px;
+	height: auto;
+	background-color: white;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	pointer-events: none;
+}
+
+#tooltip p {
+	font-family: "Open Sans Condensed";
+		font-size: 14px;
+		color: #403d3e;
+		text-align: left;
+}
+
+.axis text {
+	fill: #fff;
+}
+
+.axisT path {
+	fill: none;
+	stroke: #fff;
+	stroke-width: 0.3px;
+}
+
+.axisT text {
+	fill: #fff;
+}
+
+.axis line {
+    stroke: lightgrey;
+    stroke-width: 0.3px;
+    opacity: 0.7;
+}
+
+.legend text {
+	fill: #fff;
+}

@@ -1,0 +1,154 @@
+"sector","category","year","value","color","dif","difPer","href","titular"
+"Educación","Sector Social",2008,433785494,"#afc94c",0,0,"images/01_education.svg","<strong>La Ayuda Oficial al Desarrollo (AOD)</strong>, utilizada habitualmente para medir la Ayuda Internacional 
+										al Desarrollo, es un término establecido por los Estados 
+										miembros del Comité de Ayuda al Desarrollo de la OCDE, conocidos internacionalmente 
+										como países DAC.<br>
+										Uno de los <strong>objetivos</strong> que se marcaron los países DAC fue <strong>destinar el famoso 0,7% de su PIB</strong> 
+										a este tipo de ayuda.<br>
+										Gracias al Plan Anual de Cooperación (PACI), es posible saber qué cantidad destina España a la 
+										AOD, en qué la emplea (<a href=""http://goo.gl/5BTOUU"" target=""_blank"">categorías y sectores</a>) y cómo ha variado 
+										durante los primeros años de la crisis, <strong>tomando siempre como referencia el año 2008</strong>.<br>
+										En 2008, la AOD suponía el 0,45% del PIB y el <a href=""http://goo.gl/BEFtzd"" target=""_blank"">Segumiento del PACI 2008</a> casi empieza diciendo ""El año 2008 consolidó a la Cooperación Española como una de las que más avanzaron en calidad y en cantidad de la AOD"".<br><br>
+										<strong> ¡Selecciona cada uno de los años para ver qué ha pasado después! </strong>"
+"Salud","Sector Social",2008,496401217,"#afc94c",0,0,"images/02_health.svg",NA
+"Agua","Sector Social",2008,449935069,"#afc94c",0,0,"images/03_water.svg",NA
+"Gobierno y sociedad civil","Sector Social",2008,551037491,"#afc94c",0,0,"images/04_civilSociety.svg",NA
+"Otros servicios sociales","Sector Social",2008,304393456,"#afc94c",0,0,"images/05_otherSocialServices.svg",NA
+"Transporte y almacenamiento","Sector Económico",2008,268472345,"#76abc0",0,0,"images/06_transport.svg",NA
+"Comunicaciones","Sector Económico",2008,15245199,"#76abc0",0,0,"images/07_communications.svg",NA
+"Energía","Sector Económico",2008,121801850,"#76abc0",0,0,"images/08_energy.svg",NA
+"Otros servicios económicos","Sector Económico",2008,129246543,"#76abc0",0,0,"images/09_otherEconomicServices.svg",NA
+"Agricultura, silvicultura y pesca","Sector Productivo",2008,190402826,"#fec93a",0,0,"images/10_agriculture.svg",NA
+"Industria, minería y construcción","Sector Productivo",2008,50938053,"#fec93a",0,0,"images/11_industry.svg",NA
+"Comercio","Sector Productivo",2008,25640961,"#fec93a",0,0,"images/12_trade.svg",NA
+"Turismo","Sector Productivo",2008,11181228,"#fec93a",0,0,"images/13_tourism.svg",NA
+"Multisectorial","Multisectorial",2008,329591634,"#f69034",0,0,"images/14_multisector.svg",NA
+"Bienes","No distribuibles sectorialmente",2008,201086878,"#E313EE",0,0,"images/15_commodity.svg",NA
+"Deuda","No distribuibles sectorialmente",2008,294359342,"#E313EE",0,0,"images/16_debt.svg",NA
+"Ayuda de emergencia","No distribuibles sectorialmente",2008,395926578,"#E313EE",0,0,"images/17_humanitarian.svg",NA
+"Otras partidas no distribuibles","No distribuibles sectorialmente",2008,226622053,"#E313EE",0,0,"images/18_other_not_distrib.svg",NA
+"Sin especificación / no clasificados","Sin especificar",2008,265645367,"#b7b7b7",0,0,"images/19_unspecified.svg",NA
+"Total","Total",2008,4761713584,"#d14b51",0,0,"images/20_total.svg",NA
+"Educación","Sector Social",2009,343538633,"#afc94c",90246861,21,"images/01_education.svg","<strong>La primera consecuencia de la crisis: las previsiones de crecimiento para 2009 no se cumplen</strong>. 
+										Aún así, se podría decir que <strong>la AOD total se mantiene</strong> ya que sólo desciende un punto (más de 33 millones de euros!).<br>
+
+										El Sector Social y las Ayudas No Distribuibles continúan siendo las áreas prioritarias. Sin embargo, no todo sigue igual:<br>
+
+										- <strong>Incrementan</strong> notablemente la <strong>dotación de Bienes</strong> y la <strong>Ayuda de Emergencia</strong>, en parte como consecuencia 
+										de la <a href=""http://goo.gl/lN4FYn"" target=""_blank"">Crisis de Gaza de 2008-2009</a><br>
+
+										- En el ámbito económico, destaca el descenso del <strong>124%</strong> de <strong>Otros servicios económicos</strong>. 
+										Los que supone un <strong>superávit de 32 millones</strong> de euros para el balance español en los <strong>reembolsos de Servicios Financieros</strong> prestados en los años anteriores.<br>
+
+										- Las ayudas a las <strong>energías renovables en Túnez y Marruecos</strong> explican gran parte del <strong>incremento</strong> del 149% 
+										en la AOD destinada al <strong>Sector Energético</strong>."
+"Salud","Sector Social",2009,499128134,"#afc94c",-2726917,-1,"images/02_health.svg",NA
+"Agua","Sector Social",2009,421506278,"#afc94c",28428791,6,"images/03_water.svg",NA
+"Gobierno y sociedad civil","Sector Social",2009,566553932,"#afc94c",-15516441,-3,"images/04_civilSociety.svg",NA
+"Otros servicios sociales","Sector Social",2009,270518553,"#afc94c",33874903,11,"images/05_otherSocialServices.svg",NA
+"Transporte y almacenamiento","Sector Económico",2009,316258608,"#76abc0",-47786263,-18,"images/06_transport.svg",NA
+"Comunicaciones","Sector Económico",2009,11065705,"#76abc0",4179494,27,"images/07_communications.svg",NA
+"Energía","Sector Económico",2009,302738386,"#76abc0",-180936536,-149,"images/08_energy.svg",NA
+"Otros servicios económicos","Sector Económico",2009,-31518833,"#76abc0",160765376,124,"images/09_otherEconomicServices.svg",NA
+"Agricultura, silvicultura y pesca","Sector Productivo",2009,235912924,"#fec93a",-45510098,-24,"images/10_agriculture.svg",NA
+"Industria, minería y construcción","Sector Productivo",2009,47601681,"#fec93a",3336372,7,"images/11_industry.svg",NA
+"Comercio","Sector Productivo",2009,18515729,"#fec93a",7125232,28,"images/12_trade.svg",NA
+"Turismo","Sector Productivo",2009,7524028,"#fec93a",3657200,33,"images/13_tourism.svg",NA
+"Multisectorial","Multisectorial",2009,369951783,"#f69034",-40360149,-12,"images/14_multisector.svg",NA
+"Bienes","No distribuibles sectorialmente",2009,309978227,"#E313EE",-108891349,-54,"images/15_commodity.svg",NA
+"Deuda","No distribuibles sectorialmente",2009,125855424,"#E313EE",168503918,57,"images/16_debt.svg",NA
+"Ayuda de emergencia","No distribuibles sectorialmente",2009,465036833,"#E313EE",-69110255,-17,"images/17_humanitarian.svg",NA
+"Otras partidas no distribuibles","No distribuibles sectorialmente",2009,223762977,"#E313EE",2859076,1,"images/18_other_not_distrib.svg",NA
+"Sin especificación / no clasificados","Sin especificar",2009,224119691,"#b7b7b7",41525676,16,"images/19_unspecified.svg",NA
+"Total","Total",2009,4728048693,"#d14b51",33664891,1,"images/20_total.svg",NA
+"Educación","Sector Social",2010,356422131,"#afc94c",77363363,18,"images/01_education.svg","En al año <strong>2010</strong> comienzan a advertirse las <strong>primeras 
+											consecuencias de la crisis</strong>:<br>
+											- La Ayuda total es <strong>270 millones de € más baja</strong> (-6%) que en 2008.<br>
+											- El <strong>Sector Social es el más afectado</strong>: se ha reducido la Ayuda en todas 
+											las categorías que lo componen; categorías que son teóricamente fundamentales 
+											para el desarrollo real de un país <strong>(educación, sanidad, agua y sociedad civil)</strong>.<br>
+											- Las Ayudas al desarrollo de energías renovables en Marruecos y sobre todo 
+											en Túnez, siguen siendo la razón principal por la que la 
+											contribución al sector energético sigue siendo mayor que en 2008.<br>
+											- <strong>Buenas noticias</strong>, incrementa el apoyo a la Agricultura, la <strong>Silvicultura 
+											y la Pesca</strong>, uno de los motores fundamentales de las economías de los países en vías de desarrollo.<br>
+											En concreto se destinan casi 200 millones de € más al 
+											desarrollo de la <strong>Agricultura</strong> en (literalmente) ""<strong>Países en vías de desarrollo, no especificados</strong>"" y 15 millones 
+											de € más para empujar la <strong>Silvicultura</strong> en <strong>África Subsahariana</strong>."
+"Salud","Sector Social",2010,383045310,"#afc94c",113355907,23,"images/02_health.svg",NA
+"Agua","Sector Social",2010,295432790,"#afc94c",154502279,34,"images/03_water.svg",NA
+"Gobierno y sociedad civil","Sector Social",2010,545772879,"#afc94c",5264612,1,"images/04_civilSociety.svg",NA
+"Otros servicios sociales","Sector Social",2010,220504144,"#afc94c",83889312,28,"images/05_otherSocialServices.svg",NA
+"Transporte y almacenamiento","Sector Económico",2010,168288233,"#76abc0",100184112,37,"images/06_transport.svg",NA
+"Comunicaciones","Sector Económico",2010,14039385,"#76abc0",1205814,8,"images/07_communications.svg",NA
+"Energía","Sector Económico",2010,240744647,"#76abc0",-118942797,-98,"images/08_energy.svg",NA
+"Otros servicios económicos","Sector Económico",2010,194371290,"#76abc0",-65124747,-50,"images/09_otherEconomicServices.svg",NA
+"Agricultura, silvicultura y pesca","Sector Productivo",2010,495000734,"#fec93a",-304597908,-160,"images/10_agriculture.svg",NA
+"Industria, minería y construcción","Sector Productivo",2010,48487786,"#fec93a",2450267,5,"images/11_industry.svg",NA
+"Comercio","Sector Productivo",2010,19051447,"#fec93a",6589514,26,"images/12_trade.svg",NA
+"Turismo","Sector Productivo",2010,7117087,"#fec93a",4064141,36,"images/13_tourism.svg",NA
+"Multisectorial","Multisectorial",2010,383029550,"#f69034",-53437916,-16,"images/14_multisector.svg",NA
+"Bienes","No distribuibles sectorialmente",2010,171854829,"#E313EE",29232049,15,"images/15_commodity.svg",NA
+"Deuda","No distribuibles sectorialmente",2010,298285120,"#E313EE",-3925778,-1,"images/16_debt.svg",NA
+"Ayuda de emergencia","No distribuibles sectorialmente",2010,356098870,"#E313EE",39827708,10,"images/17_humanitarian.svg",NA
+"Otras partidas no distribuibles","No distribuibles sectorialmente",2010,213564558,"#E313EE",13057495,6,"images/18_other_not_distrib.svg",NA
+"Sin especificación / no clasificados","Sin especificar",2010,80728387,"#b7b7b7",184916980,70,"images/19_unspecified.svg",NA
+"Total","Total",2010,4491839177,"#d14b51",269874407,6,"images/20_total.svg",NA
+"Educación","Sector Social",2011,280912366,"#afc94c",152873128,35,"images/01_education.svg","Es evidente que la crisis repercute en la AOD, la aportación total de España a los países en desarrollo
+											<strong>se reduce</strong> en un 37%, es decir, en <strong>1.774 millones de €uros</strong>.<br>
+											
+											<strong>Todos los sectores se ven afectados</strong>: tanto aquellos que contribuyen a un desarrollo más estable a largo 
+											plazo (social y económico) como los que solucionan problemas más urgentes (dotación de bienes, condonación 
+											de deuda o ayuda de emergencia).<br>
+																			   
+											La <strong>excepción</strong> podría ser el <strong>Sector Productivo</strong>, quizá porque nunca ha tenido un gran peso 
+											en la distribución estructural de la AOD. Sorprende que la Industria, minería y construcción, 
+											hasta ahora estable y un poco olvidada dados los índices de aportación, sea la única que crezca 
+											en 2011 respecto a 2008.<br>
+											
+											Este incremento se detecta en el <strong>Sector Industrial</strong>, donde crecen las aportaciones al <strong>Norte de África</strong> 
+											(+82 millones de €) y a <strong>Haití</strong> (+ 41 millones de €), objetivo primordial del la Ayuda Internacional 
+											tras el <a href=""http://goo.gl/SZOJRb"" target=""_blank"">terremoto de 2010</a>."
+"Salud","Sector Social",2011,191235655,"#afc94c",305165562,61,"images/02_health.svg",NA
+"Agua","Sector Social",2011,116236403,"#afc94c",333698666,74,"images/03_water.svg",NA
+"Gobierno y sociedad civil","Sector Social",2011,455623885,"#afc94c",95413606,17,"images/04_civilSociety.svg",NA
+"Otros servicios sociales","Sector Social",2011,167308316,"#afc94c",137085140,45,"images/05_otherSocialServices.svg",NA
+"Transporte y almacenamiento","Sector Económico",2011,106514845,"#76abc0",161957500,60,"images/06_transport.svg",NA
+"Comunicaciones","Sector Económico",2011,7427021,"#76abc0",7818178,51,"images/07_communications.svg",NA
+"Energía","Sector Económico",2011,105154222,"#76abc0",16647628,14,"images/08_energy.svg",NA
+"Otros servicios económicos","Sector Económico",2011,48175071,"#76abc0",81071472,63,"images/09_otherEconomicServices.svg",NA
+"Agricultura, silvicultura y pesca","Sector Productivo",2011,178912610,"#fec93a",11490216,6,"images/10_agriculture.svg",NA
+"Industria, minería y construcción","Sector Productivo",2011,168480230,"#fec93a",-117542177,-231,"images/11_industry.svg",NA
+"Comercio","Sector Productivo",2011,20973902,"#fec93a",4667059,18,"images/12_trade.svg",NA
+"Turismo","Sector Productivo",2011,4475466,"#fec93a",6705762,60,"images/13_tourism.svg",NA
+"Multisectorial","Multisectorial",2011,246192212,"#f69034",83399422,25,"images/14_multisector.svg",NA
+"Bienes","No distribuibles sectorialmente",2011,173583503,"#E313EE",27503375,14,"images/15_commodity.svg",NA
+"Deuda","No distribuibles sectorialmente",2011,95348631,"#E313EE",199010711,68,"images/16_debt.svg",NA
+"Ayuda de emergencia","No distribuibles sectorialmente",2011,307108907,"#E313EE",88817671,22,"images/17_humanitarian.svg",NA
+"Otras partidas no distribuibles","No distribuibles sectorialmente",2011,206045229,"#E313EE",20576824,9,"images/18_other_not_distrib.svg",NA
+"Sin especificación / no clasificados","Sin especificar",2011,108169579,"#b7b7b7",157475788,59,"images/19_unspecified.svg",NA
+"Total","Total",2011,2987878053,"#d14b51",1773835531,37,"images/20_total.svg",NA
+"Educación","Sector Social",2012,82893636,"#afc94c",350891858,81,"images/01_education.svg","<strong>2012. Las aportaciones a todas las categorías</strong>, excepto a aquellas Sin Especificar*, <strong>son mínimas</strong>.
+<strong>La ayuda es un tercio de lo que fue</strong>, pasando de 4.762 millones de € en 2008 a 1.585 millones de € en este año.<br>
+Hasta ese momento, el 2003 había sido el año en el que España menos había contribuído a la AOD. A partir de ahí, se fijó el objetivo de crecer en cantidad y en calidad. Así fue (al menos en cantidad) durante cinco años, hasta 2008. En los <strong>cuatro años</strong> siguientes <strong>se destruyó todo lo que se había conseguido (y 150 millones de € más)</strong>.<br>
+Se entiende que esta pérdida de recursos no sólo <strong>afecta</strong> a la escasez de aportaciones nuevas, sino al <strong>mantenimiento de numerosos proyectos de desarrollo que se habían puesto en marcha antes de que la crisis llegara a occidente</strong>.<br>
+*El incremento del 200% de las aportaciones no especificadas, se debe al traspaso de 746 millones de € del presupuesto de Cooperación al Ministerio de Hacienda, que no hace constar en el PACI el destino de los fondos."
+"Salud","Sector Social",2012,74015668,"#afc94c",422385549,85,"images/02_health.svg",NA
+"Agua","Sector Social",2012,19932886,"#afc94c",430002183,96,"images/03_water.svg",NA
+"Gobierno y sociedad civil","Sector Social",2012,128274377,"#afc94c",422763114,77,"images/04_civilSociety.svg",NA
+"Otros servicios sociales","Sector Social",2012,43116291,"#afc94c",261277165,86,"images/05_otherSocialServices.svg",NA
+"Transporte y almacenamiento","Sector Económico",2012,868776,"#76abc0",267603569,100,"images/06_transport.svg",NA
+"Comunicaciones","Sector Económico",2012,633594,"#76abc0",14611605,96,"images/07_communications.svg",NA
+"Energía","Sector Económico",2012,772351,"#76abc0",121029499,99,"images/08_energy.svg",NA
+"Otros servicios económicos","Sector Económico",2012,-4705629,"#76abc0",133952172,104,"images/09_otherEconomicServices.svg",NA
+"Agricultura, silvicultura y pesca","Sector Productivo",2012,52347830,"#fec93a",138054996,73,"images/10_agriculture.svg",NA
+"Industria, minería y construcción","Sector Productivo",2012,10473124,"#fec93a",40464929,79,"images/11_industry.svg",NA
+"Comercio","Sector Productivo",2012,4033039,"#fec93a",21607922,84,"images/12_trade.svg",NA
+"Turismo","Sector Productivo",2012,1077663,"#fec93a",10103565,90,"images/13_tourism.svg",NA
+"Multisectorial","Multisectorial",2012,77885300,"#f69034",251706334,76,"images/14_multisector.svg",NA
+"Bienes","No distribuibles sectorialmente",2012,16226969,"#E313EE",184859909,92,"images/15_commodity.svg",NA
+"Deuda","No distribuibles sectorialmente",2012,58963823,"#E313EE",235395519,80,"images/16_debt.svg",NA
+"Ayuda de emergencia","No distribuibles sectorialmente",2012,72030599,"#E313EE",323895979,82,"images/17_humanitarian.svg",NA
+"Otras partidas no distribuibles","No distribuibles sectorialmente",2012,150347759,"#E313EE",76274294,34,"images/18_other_not_distrib.svg",NA
+"Sin especificación / no clasificados","Sin especificar",2012,795858125,"#b7b7b7",-530212758,-200,"images/19_unspecified.svg",NA
+"Total","Total",2012,1585046181,"#d14b51",3176667403,67,"images/20_total.svg",NA
